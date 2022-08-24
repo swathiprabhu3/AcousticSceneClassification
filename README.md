@@ -1,2 +1,2 @@
 # AcousticSceneClassification
-Classifies urban noises 
+The Urban Noise Classifier
